@@ -1,0 +1,118 @@
+/*page index*/
+        body{ /*the body*/
+            background-image:url(background-image.png);
+            background-repeat: no-repeat;
+            background-size: cover ;
+            
+        }
+        .name{
+            color: rgb(0, 0, 0);
+            position: relative;
+            top: 30px;
+            left: 250px;
+            font-size: 50px;
+        }
+        .job{
+            color: rgb(0, 0, 0);
+            position: relative;
+            top: 10px;
+            left: 250px;
+            font-size: 20px;
+        }
+        .information{
+            position: relative;
+            top: 10px;
+            left: 250px;
+            font-size: 15px;  
+        }
+        .dot1{
+            position: relative;
+            top: 10px;
+            left: 550px;
+            font-size: 50px;    
+        }
+        .dot2{
+            position: relative;
+            bottom: 150px;
+            left: 550px;
+            font-size: 50px;    
+        }
+        img{
+            position: relative;
+            bottom: 300px;
+            left: 20px;
+        }
+        table{ /*table 1*/
+            width: 100%;
+            position: relative;
+            bottom: 100px;
+        }
+        .date{
+            font-size: 10px;
+        }
+        .table1 , th , td{
+            border: 1px solid black;
+            text-align: center;
+
+        }
+        .table1{
+            width: 100%;
+            position: relative;
+            bottom: 100px;
+            text-align: center;
+        }
+        .table2 , td{ /*table 2*/
+            border: 1px solid black;
+            text-align: start;
+        }
+        .b1{
+            color: rgb(255, 255, 255);
+            background-color: rgb(252, 110, 186);
+            position: relative;
+            left: 450px;
+        }
+        /*page contact*/
+        .input1{
+            position: relative;
+            top: 110px;
+            left: 330px;
+            width: 500px;
+        }
+        .label2{
+            position: relative;
+            top: 150px;
+            left: 10px;
+        }
+        .input2{
+            position: relative;
+            top: 175px;
+            right: 257px;
+            width: 500px;
+        }
+        .label1{
+            position: relative;
+            top: 90px;
+            left: 600px;
+        }
+        .label3{
+            position: relative;
+            top: 200px;
+            right: 590px;
+            
+        }
+        .input3{
+            position: relative;
+            top: 200px;
+            left: 400px;
+            width: 500px;
+            height: 300px;
+        }
+        .b{
+            position: relative;
+            left: 100px;
+            top: 250px;
+            color: rgb(255, 255, 255);
+            background-color: rgb(252, 110, 186);
+        }
+
+
